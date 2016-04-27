@@ -1,0 +1,122 @@
+@import url(https://fonts.googleapis.com/css?family=Dosis);
+header {
+    color:#F8FF6B;
+    text-shadow:1px 1px #6BFFBC; 
+        font-size:18pt;
+    text-align:center;
+        line-height:8pt;
+    background-image:url('lemon.jpg');
+    background-repeat: no-repeat;
+    background-position: bottom center;
+    background-size:60%;
+    padding: 20px 100px 400px 100px;
+    margin:100px 100px 50px 100px;
+}
+
+h1 {font-size:50pt;
+    color:#EAF522;}
+
+h3 {font-size: 15pt;
+    color:limegreen;}
+
+
+div .summary {
+    
+    padding: 30px;
+    width:1000px; height:200px;
+    text-align: center;
+    font-size: 18pt;
+    color:#F0EE8B;
+    text-shadow: 1px 1px #E8E8E8;
+    line-height:40pt;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:20px;
+    margin-bottom:150px
+}
+
+div .preamble {
+    background-color:white;
+    padding: 30px;
+    width:600px; height:300px;
+    border:10px solid #F0EE8B;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px;
+}
+
+div .explanation {
+    background-color:white;
+    padding: 30px;
+    width:600px; height:340px;
+    border:10px solid #F0EE8B;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px
+}
+
+div .participation {
+    background-color:white;
+    padding: 30px;
+    width:600px; height:440px;
+    border:10px solid #F0EE8B;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px
+}
+
+div .benefits {
+    background-color:white;
+    padding: 30px;
+    width:600px; height:190px;
+    border:10px solid #F0EE8B;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px
+}
+
+div .requirements {
+    background-color:white;
+    padding: 30px;
+    width:600px; height:500px;
+    overflow:scroll;
+    border:10px solid #F0EE8B;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px
+}
+
+footer {font-size:20pt;
+    text-align: center;
+    background-color:white;
+    padding: 90px 100px 500px 100px;
+    margin:90px 100px 50px 100px;
+    background-image:url('lime.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size:50%;}
+
+aside {
+    
+    line-height: 18pt;
+    background-color:white;
+    padding: 30px;
+    width:600px; height:600px;
+    border:10px solid #F0EE8B;
+    border-radius: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top:30px
+}
+
+body { 
+    font-family: 'Dosis', sans-serif;
+    font-size: 14pt;
+    color:grey;
+}
+
